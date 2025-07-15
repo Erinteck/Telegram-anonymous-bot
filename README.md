@@ -86,7 +86,7 @@ Users are matched anonymously with others based on their selection.
 3. Set your `api_id`, `api_hash`, and `bot_token` in a config file.
 4. Run the bot:
    ```bash
-   python main.py
+   python -m telegram_anonymous_bot
    ```
 
 ---
